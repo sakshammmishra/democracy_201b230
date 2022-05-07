@@ -2,3 +2,4 @@
 This project is made for the purpose of promoting democracy
 Pakistan is not a democracy
 America is also a democracy
+France is also a democracy
